@@ -13,7 +13,6 @@ client=Groq(api_key=my_api_key)
 model="openai/gpt-oss-120b"
 
 
-# step 1
 knowledge_base={
     "age" : " The age of pratyush is 25 years",
     "net worth" : "The net worth of pratyush is 2000"

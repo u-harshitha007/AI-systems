@@ -18,7 +18,7 @@ knowledge_base={
     "net worth" : "The net worth of pratyush is 2000"
 }
 
-# step 2 retreieval
+# sstep 2 retreieval
 def retrieve_info(question):
     question=question.lower()
     if "age" in question:

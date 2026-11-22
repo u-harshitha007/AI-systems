@@ -104,4 +104,4 @@ if __name__ == "__main__":
     tracker = TokenTracker()
     answer = ask_llm(input("Ask me anything: "), tracker)
     print("\nFINAL ANSWER:\n" + answer)
-    tracker.report("single agent")c
+    tracker.report("single agent")

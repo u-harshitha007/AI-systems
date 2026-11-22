@@ -147,4 +147,4 @@ if __name__ == "__main__":
     tracker = TokenTracker()
     answer = ask_manager_llm(input("Ask me anything: "), tracker)
     print("\nFINAL ANSWER:\n" + answer)
-    tracker.report("multi agent")co
+    tracker.report("multi agent")
